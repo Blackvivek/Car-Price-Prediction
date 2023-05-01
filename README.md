@@ -13,4 +13,10 @@ pip install package_name
 
 ## How to Run?
 1. Install Required Packages.
-2. Open project in `vscode`
+2. Open project in any IDE but I refer [Visual Studio Code](https://code.visualstudio.com/)
+3. Install [python](https://www.python.org/)>=3.6
+4. Run [QuickerAnalysis.ipynb](https://github.com/Blackvivek/Car-Price-Prediction/blob/main/Quikr%20Analysis.ipynb)
+5. Create localhost Using [application.py](https://github.com/Blackvivek/Car-Price-Prediction/blob/main/application.py)
+6. Now predict the Price of any used-car
+
+
